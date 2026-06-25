@@ -1,0 +1,6 @@
+{
+  "name": "PIKAT",
+  "description": "Portal Informasi Kualitas Penyelenggaraan Diklat (PIKAT) BPSDM Jawa Timur. Platform All-in-One untuk transparansi publik, monev eksekutif, analisis komparatif, dan entri data cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
